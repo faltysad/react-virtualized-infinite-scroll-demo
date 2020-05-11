@@ -10,6 +10,7 @@ API.
 ![react-virtualized-infinite-scroll-demo preview](react-virtualized-infinite-scroll-demo-preview.gif)
 
 # 🔗 Codesandbox link
+https://codesandbox.io/s/react-virtualized-infinite-scroll-demo-ngexu
 
 # 📚 Libraries used
 Check out the amazing libraries used in this example!
