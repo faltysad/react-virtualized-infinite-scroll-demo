@@ -1,0 +1,36 @@
+{
+  "name": "react-virtualized-infinite-scroll-demo",
+  "version": "1.0.0",
+  "description": "This is a simple showcase of performant infinite-scroll experience using react-virtualized",
+  "keywords": [
+    "javascript",
+    "react",
+    "infinite-scroll",
+    "react-virtualized"
+  ],
+  "main": "src/index.js",
+  "author": "Tomas Faltejsek <faltejsek9@gmail.com> (https://faltejsek.me/)",
+  "dependencies": {
+    "axios": "0.19.2",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-scripts": "3.0.1",
+    "react-virtualized": "9.21.2",
+    "react-virtualized-auto-sizer": "1.0.2"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
