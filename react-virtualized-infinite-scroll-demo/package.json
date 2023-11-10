@@ -11,7 +11,7 @@
   "main": "src/index.js",
   "author": "Tomas Faltejsek <faltejsek9@gmail.com> (https://faltejsek.me/)",
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "1.6.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-scripts": "3.0.1",
